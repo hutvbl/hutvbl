@@ -1,0 +1,331 @@
+*{margin:0;padding:0; }
+
+.portfolio i.fa.fa-star {
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+img.skill-img {
+    max-width: 100%;
+    height: 500px;
+}
+
+.theme4 {
+    opacity: 0;
+    transition: all 0.4s;
+}
+
+.theme4.display {
+    opacity: 1;
+}
+
+.footer p {
+    margin-bottom: 0px;
+}
+
+.footer {
+    padding: 20px;
+    opacity: 0;
+    transition: all 0.4s;
+    transform: translatez(-300px);
+}
+
+.footer.display {
+    opacity: 1;
+}
+
+.theme5 {
+    background: black;
+    color: white;
+    padding: 15px;
+    transition: all 0.4s;
+    transform: translateZ(-300px);
+    opacity: 0;
+}
+
+.theme5.display {
+    opacity: 1;
+}
+
+.theme5 a {
+    color: white;
+}
+
+.theme5 h1 {
+    text-align: center;
+    margin: 0px;
+    padding-bottom: 15px;
+}
+
+.theme5 li {
+    display: inline;
+    float: right;
+    font-size: 35px;
+    margin-left: 50px;
+    color: white;
+}
+
+.theme4 h2 {
+    margin: 0px;
+    text-align: center;
+    padding: 30px;
+}
+
+.theme4 a.btn.btn-lg.btn-primary {
+    background: none;
+    border: 2px solid white;
+    color: white;
+    font-size: 22px;
+    font-weight: 500;
+    padding: 10px 30px;
+}
+
+.theme4 a.btn.btn-lg.btn-primary:hover {
+    background: black;
+    color: white;
+    border: 2px solid black;
+}
+
+.theme4 h1 {
+    color: white;
+}
+
+.portfolio {
+    background: black;
+    color: white;
+    padding: 30px;
+    opacity: 0;
+    transition: all 0.4s;
+}
+
+.portfolio.display {
+    opacity: 1;
+}
+
+.portfolio h1 {
+    margin: 0px;
+}
+
+.theme3 i.glyphicon {
+    font-size: 17px;
+    font-weight: 100;
+    margin: -3px;
+    margin-top: 8px;
+    margin-bottom: 10px;
+}
+
+.theme3 {
+    background: url(images/theme3.jpg);
+    height: 615px;
+    color: black;
+    opacity: 0;
+    transition: all 0.4s;
+}
+
+.theme3.display {
+    opacity: 1;
+}
+
+.theme3 i.fa.fa-code {
+    font-size: 25px;
+    margin: 10px;
+    font-weight: bold;
+}
+
+.progress {
+    height: 30px;
+}
+
+.theme3 p {
+    font-size: 22px;
+}
+
+.bs .progress-bar.progress-bar-striped.bg-danger {
+    background-color: #424242;
+}
+
+.wp .progress-bar.progress-bar-striped.bg-info {
+    background-color: #d500ff7d;
+}
+
+.illus .progress-bar.progress-bar-striped.bg-success {
+    background-color: #008000c2;
+}
+
+.pts .progress-bar.progress-bar-striped {
+    background-color: #ff0000b8;
+}
+
+.text2 {padding: 0px;}
+
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.story {
+    background: white;
+    color: black;
+}
+
+.theme2 i.fa.fa-star {
+    font-size: 25px;
+    margin-bottom: 35px;
+}
+
+.theme2 span {
+    color: #524c4c;
+    font-size: 15px;
+    background: white;
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 0px 30px 30px 0px;
+    margin-right: 20px;
+}
+
+.theme2 p {
+    padding-top: 10px;
+    font-size: 25px;
+}
+
+.theme2 h1 {font-weight: 900;margin-bottom: 20px;}
+
+.theme2 {
+    background: url(images/theme2.jpg);
+    color: white;
+    opacity: 0;
+    transition: all 0.4s;
+    height: 560px;
+}
+
+.theme2.display {
+    opacity: 1;
+}
+
+.theme2 .display {
+    opacity: 1;
+}
+
+.menu .navbar-default .navbar-nav > li > a {
+    color: white;
+}
+
+.menu .navbar-default .navbar-nav > li > a:hover {
+    background: white;
+    color: black;
+}
+
+.text b {
+    font-weight: bold;
+}
+
+.theme1 p {
+    margin-bottom: 30px;
+    font-weight: 300;
+}
+
+.theme1 .btn p {
+    margin-bottom: 0px;
+    font-size: 30px;
+}
+
+.theme1 i.fa.fa-angle-double-down {
+    color: black;
+    font-size: 30px;
+}
+
+.theme1 .btn.btn-default {
+    padding: 14px 90px;
+    background: none;
+    border: 2px solid black;
+}
+
+.theme1 .btn.btn-default:hover {background-color: #000000;color: white;}
+
+.theme1 .text {
+    padding-top: 210px;
+    font-size: 30px;
+}
+
+.theme1 {
+    background: url(images/theme1.jpg);
+    height: 675px;
+}
+
+.theme1 h2 {
+    margin-top: 0px;
+    margin-bottom: 25px;
+    font-weight: 300;
+}
+
+.menu {
+    background: #000000;
+}
+
+.menu a.navbar-brand {
+    color: white;
+}
+
+.menu a.navbar-brand:hover {
+    background: white;
+    color: black;
+}
+
+nav.navbar.navbar-default {
+    border: none;
+    background: none;
+    margin-bottom: 0px;
+}
+ 
+@media only screen and (max-width: 400px) {
+    * {margin: 0; padding: 0;}
+
+.theme3 {
+    background: #808080ab;
+}
+
+.theme5 li {
+    margin-left: 20px;
+    font-size: 29px;
+}
+
+.theme4 ol>li {
+    width: 5px;
+    height: 5px;
+}
+
+.theme4 a.btn.btn-lg.btn-primary {
+    font-size: 15px;
+    padding: 5px 25px;
+}
+
+.theme4 h1 {
+    font-size: 15px;
+}
+
+.theme2 .story {
+    text-align: center;
+}
+
+.theme2 .text2 {
+    padding-bottom: 18px;
+}
+
+.theme2 {
+    height: 839px;
+    background: black;
+}
+
+.theme2 p {
+    font-size: 20px;
+}
+
+.theme1 .text {
+    text-align: center;
+    padding-top: 110px;
+    font-size: 20px;
+}
+
+.theme1 {
+    height: 500px;
+}
+}

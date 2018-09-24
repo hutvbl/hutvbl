@@ -1,0 +1,99 @@
+*{margin:0;padding:0; }
+
+small {
+    font-size: 20px;
+    color: gray;
+}
+
+.menu-left {
+    padding-top: 19px;
+}
+
+.menu-left li {
+    display: inline;
+    margin-right: 30px;
+    font-size: 20px;
+}
+
+.right {
+    padding-top: 12px;
+}
+
+.left {
+    font-size: 35px;
+    text-shadow: 1px 1px 0px white;
+}
+
+.theme2 {
+    padding: 70px;
+    background: url(images/4.1.jpg);
+    color: black;
+}
+
+.xtheme2 p {
+    font-size: 20px;
+    text-shadow: 1px 1px 0px gray;
+}
+
+.xtheme2 h3 {
+    font-size: 40px;
+    font-weight: 700;
+    text-shadow: 1.5px 1.5px 0px gray;
+}
+
+.theme1 hr {
+    border-bottom: solid 1.5px white;
+}
+
+.xtheme2 {
+    padding: 70px;
+}
+
+.xtheme1 p {
+    font-size: 20px;
+    text-shadow: 1px 1px 0px grey;
+}
+
+hr.short {
+    background: black;
+    width: 47%;
+    border-bottom: solid black 1px;
+}
+
+.xtheme1 h3 {
+    font-weight: 700;
+    font-size: 40px;
+    text-shadow: 1.5px 1.5px 0px gray;
+}
+
+.xtheme1 {
+    padding: 70px;
+    background: #e6e3e3;
+}
+
+.navbar-default {
+    margin: 0px;
+}
+
+.theme1 h4 {
+    font-size: 24px;
+    text-shadow: 2px 2px 0 white;
+}
+
+.theme1 h1 {
+    font-size: 57px;
+    font-weight: 900;
+    text-shadow: 2px 2px 0px white;
+}
+
+.theme1 {
+    padding: 100px;
+    background: url(images/4.1.jpg);
+    color: #776767;
+}
+ 
+ body {
+ 	font-family: 'Lato', sans-serif;
+ }
+
+ 

@@ -1,0 +1,146 @@
+*{margin:0;padding:0; }
+
+.footer {
+    background: black;
+    color: white;
+    padding: 70px;
+    font-size: 25px;
+}
+
+.theme4 a {
+    color: #42dca3;
+}
+
+.theme4 p {
+    padding: 20px;
+    font-size: 18px;
+}
+
+.theme4 h1 {
+    font-family: Arial;
+    font-size: 30px;
+}
+
+.theme4 {
+    background: black;
+    color: white;
+    padding: 50px;
+}
+
+a.btn.btn-default.but2 {
+    background: none;
+    color: #42dca3;
+    border: 1px solid #42dca3;
+    border-radius: 0px;
+    padding: 10px 17px;
+    font-size: 20px;
+    margin-top: 40px;
+}
+
+.theme3 a.btn.btn-default {
+    color: #42dca3;
+    background: none;
+    border-radius: 0px;
+    border: 2px solid #42dca3;
+    transition: all 0.5s;
+}
+
+.theme3 a.btn.btn-default:hover {
+    background: #42dca3;
+    color: white;
+}
+
+.theme3 p {
+    font-size: 20px;
+    padding: 15px;
+}
+
+.theme3 h1 {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 33px;
+}
+
+.theme3 {
+    background: url(images/7.1.jpg);
+    padding: 120px;
+    color: white;
+}
+
+.theme2 p {
+    padding: 15px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.theme2 {
+    background: black;
+    color: white;
+    padding: 115px;
+}
+
+.theme1 h1 {
+    font-family: Arial;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.but1 {
+    font-size: 55px;
+    color: white;
+    border: 2px solid white;
+    border-radius: 50%;
+    width: 66px;
+    padding-top: 7px;
+    margin-top: 30px;
+}
+
+.but1:hover {color: white;text-decoration: none;}
+
+.theme 1p {
+    font-size: x-large;
+}
+
+.theme1 h1 {
+    font-family: Arial;
+    font-weight: 700;
+    font-size: 120px;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: white;
+    font-family: Arial;
+}
+
+.navbar-default .navbar-brand {
+    color: white;
+    font-family: Arial;
+}
+
+.navbar a {
+    color: white;
+}
+
+nav.navbar.navbar-default {
+    margin: 0px;
+    background: none;
+    border-bottom: none;
+}
+
+.theme1 {
+    background: url(images/7.2.jpg) no-repeat center scroll;
+    color: white;
+    background-size: cover;
+    width: 100%;
+    padding: 160px;
+}
+ 
+ body {
+ 	font-family: 'Lora', serif;
+ }
+
+ .theme2 h1 {	
+    font-size: 30px;
+    font-family: Arial;
+    font-weight: bold;
+ }
