@@ -156,7 +156,9 @@ img.skill-img {
     background-color: #ff0000b8;
 }
 
-.text2 {padding: 0px;}
+.text2 {
+    padding: 0px;
+}
 
 body {
     font-family: 'Quicksand', sans-serif;
@@ -187,7 +189,9 @@ body {
     font-size: 25px;
 }
 
-.theme2 h1 {font-weight: 900;margin-bottom: 20px;}
+.theme2 h1 {
+    font-weight: 900;margin-bottom: 20px;
+}
 
 .theme2 {
     background: url(images/theme2.jpg);
@@ -239,7 +243,9 @@ body {
     border: 2px solid black;
 }
 
-.theme1 .btn.btn-default:hover {background-color: #000000;color: white;}
+.theme1 .btn.btn-default:hover {
+    background-color: #000000;color: white;
+}
 
 .theme1 .text {
     padding-top: 210px;
@@ -276,7 +282,7 @@ nav.navbar.navbar-default {
     margin-bottom: 0px;
 }
  
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 700px) {
     * {margin: 0; padding: 0;}
 
 .theme3 {
